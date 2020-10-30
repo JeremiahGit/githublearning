@@ -21,6 +21,8 @@ COMMANDS:
 `nano <file you want to edit>` - like a text file
 
 `git diff <version ID number>`
+`git clone <url of project>` - clone someone elses repository
+`git fetch` - download it again
 
 
 
