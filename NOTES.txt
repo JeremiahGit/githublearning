@@ -1,0 +1,32 @@
+To make a repository (something that keeps track of files in a folder):
+
+COMMANDS:
+
+`mkdir <folder name>` - make a directority / folder
+`ls` - lists everything in the folder
+`cd <folder Name>` - Change directority 
+`cd` - navigate up in the folder line
+
+`pwd` - shows the current file location
+`touch stuff.txt` - takes in the name of the type of file you want to make (like <filename>.txt)
+`cat`
+
+`git status` - shows git status
+`git init` - initalizes a git repository
+`git add <fileName>` - adds file to git repository 
+`git add .` - adds all files under directory to the repository 
+`git commit -m <"message">` - commits added things
+`git log` - shows previous commits
+
+`nano <file you want to edit>` - like a text file
+
+`git diff <version ID number>`
+
+
+
+
+
+
+
+
+
